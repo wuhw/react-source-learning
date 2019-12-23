@@ -135,6 +135,7 @@
   },
   "devDependencies": {
     "@babel/plugin-transform-flow-strip-types": "^7.6.3",
-    "@babel/plugin-transform-react-jsx": "^7.7.0"
+    "@babel/plugin-transform-react-jsx": "^7.7.0",
+    "serialize-javascript": "^2.1.1"
   }
 }
